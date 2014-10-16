@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cji:home|Door43 (cji)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cji|d43-cji repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cji/archive/master.zip|d43-cji.zip]]
+
+**Recent Changes**
+{{changes>ns = cji}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cji|Ethnologue data]]
+
